@@ -1,0 +1,26 @@
+body {
+    margin-top: 20px;
+    background-color: grey;
+    font-family: Impact;
+}
+
+a {
+    color: white;
+}
+
+.jumbotron,
+.well {
+    background-color: lightgrey;
+}
+
+.about {
+    font-size: 16px;
+}
+
+ul {
+    font-size: 20px;
+}
+
+.wiki {
+    font-size: 25px;
+}
