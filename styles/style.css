@@ -1,6 +1,6 @@
 body {
-    margin-top: 20px;
-    background-color: grey;
+    margin-top: 10px;
+    background-image: url("http://www.aoaforums.com/forum/attachments/digital-image-photo-video-audio-editing/25142d1270232696-camoflage-seamless-texture-maps-free-use-camo_cloth_digital_2048.png");
     font-family: Impact;
 }
 
@@ -8,19 +8,37 @@ a {
     color: white;
 }
 
-.jumbotron,
+
 .well {
-    background-color: lightgrey;
+    padding: 5px 0px 5px 0px;
+    background-color: orange;
+    border-width: 1px;
+    border-color: white;
 }
 
 .about {
     font-size: 16px;
 }
 
-ul {
+.scrollable ul {
+    overflow: hidden;
+    overflow-y: scroll;
+    max-height: 310px;
+}
+
+ul,
+.txt {
     font-size: 20px;
 }
 
 .wiki {
     font-size: 25px;
+    color: orange;
+}
+
+.mg {
+    height: 250px;
+    width: 250px;
+    padding: 3px;
+    background-image: url("http://www.aoaforums.com/forum/attachments/digital-image-photo-video-audio-editing/25142d1270232696-camoflage-seamless-texture-maps-free-use-camo_cloth_digital_2048.png");
 }
