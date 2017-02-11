@@ -51,8 +51,14 @@ h1 {
     font-size: 50px;
     padding: 0px 0px 0px 0px;
 }
-.hideo, .mg{
-	border-width: 1px;
-	border-style: solid;
-	border-color: white;
+
+.hideo,
+.mg {
+    border-width: 1px;
+    border-style: solid;
+    border-color: white;
+}
+
+.hc {
+    padding-top: 50px;
 }
